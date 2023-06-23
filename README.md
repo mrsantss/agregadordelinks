@@ -2,8 +2,9 @@
 Estudo de caso:
 Projeto desenvolvido com as tecnologias HTML/CSS.
 Neste projeto foi criado um portifólio com agregador de links.
-Foram  abordadas os seguintes temas:
- -Importância do código semântico;
+os seguintes temas foram abordados:
+
+ - Importância do código semântico;
  - como potencializar informações com CSS e seguir boas práticas de desenvolvimento;
  - Organizar uma página com CSS Flexbox;
  - Criar cabeçalhos, rodapés e aplicar estilos com CSS.
