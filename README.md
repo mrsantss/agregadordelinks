@@ -10,7 +10,6 @@ os seguintes temas foram abordados:
 - Descobrir como organizar o conteúdo com arquivos HTML;
 - Organizar uma página com CSS Flexbox;
 - Criar cabeçalhos, rodapés e aplicar estilos com CSS;
-- Tornar seu site responsivo para diferentes tamanhos de tela;
 - Como potencializar informações com CSS e seguir boas práticas de desenvolvimento;
 - E por fim, tornar o seu site responsivo para diferentes tamanhos de tela.
    Abaixo segue o layout para Desktop/Mobile:
