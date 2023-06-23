@@ -5,7 +5,7 @@ Neste projeto foi criado um portifólio com agregador de links.
 os seguintes temas foram abordados:
 
  - Importância do código semântico;
- - como potencializar informações com CSS e seguir boas práticas de desenvolvimento;
+ - Como potencializar informações com CSS e seguir boas práticas de desenvolvimento;
  - Organizar uma página com CSS Flexbox;
  - Criar cabeçalhos, rodapés e aplicar estilos com CSS.
  -  E por fim, tornar o seu site responsivo para diferentes tamanhos de tela.
