@@ -12,7 +12,6 @@ os seguintes temas foram abordados:
 - Criar cabeçalhos, rodapés e aplicar estilos com CSS;
 - Tornar seu site responsivo para diferentes tamanhos de tela;
 - Como potencializar informações com CSS e seguir boas práticas de desenvolvimento;
-- Organizar uma página com CSS Flexbox;
 - E por fim, tornar o seu site responsivo para diferentes tamanhos de tela.
    Abaixo segue o layout para Desktop/Mobile:
  <img width="3980" alt="Portfolio Projeto Desktop" src="https://github.com/mrsantss/agregadordelinks/assets/137557919/560af3a2-ea63-4c2d-8f7e-82efcaa02802">
